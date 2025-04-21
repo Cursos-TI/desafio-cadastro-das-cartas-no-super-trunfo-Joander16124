@@ -32,7 +32,6 @@ int main() {
 
     // Leitura dos dados da Carta 1
     printf("Cadastro da Carta 1:\n");
-    printf("Cadastro da Carta 1:\n");
     printf("Informe o Estado (A a H): ");
     scanf(" %c", &carta1.estado);
 
