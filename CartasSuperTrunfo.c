@@ -64,7 +64,7 @@ int main() {
 
     printf("Informe a População: ");
     scanf("%d", &carta2.populacao);
-
+        
     printf("Informe a Área (em km²): ");
     scanf("%f", &carta2.area);
 
